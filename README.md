@@ -1,4 +1,4 @@
-![](https://media-exp1.licdn.com/dms/image/C4E16AQFcHlPJJsd_6A/profile-displaybackgroundimage-shrink_200_800/0/1516625800963?e=1654128000&v=beta&t=bY_DEq2y5r4b1tdDyeRNCplmE_fzWnN0ZGKcUdZyLI4)
+![](https://i.pinimg.com/originals/36/ff/a8/36ffa8e1ce80a7c7b10a33d939095ec0.gif)
 
 
 ![Profile views](https://gpvc.arturio.dev/folarindeb)  
