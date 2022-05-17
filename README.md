@@ -51,8 +51,8 @@ See [my website](https://debellotteconsulting.com) for more information!
 <td width="50%" valign="top">
 <h3 align="center">"Marketing Website"</h3>
 <br>
- <a target="_blank" href="https://media.giphy.com/media/rwABvq762KWn0sJhjJ/giphy.gif">
-<img src = "https://media.giphy.com/media/rwABvq762KWn0sJhjJ/giphy.gif" alt = "marketing">
+ <a target="_blank" href="https://media.giphy.com/media/mcdvcHfWFDXWsydN7O/giphy.gif">
+<img src = "https://media.giphy.com/media/mcdvcHfWFDXWsydN7O/giphy.gif" alt = "marketing">
  <br>
  <p align="center">
  <a href="https://www.https://cwgmarketing.myshopify.com/" target="_blank">
