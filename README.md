@@ -20,12 +20,10 @@ See [my website](https://debellotteconsulting.com) for more information!
  <td width="50%" valign="top">
  <h3 align="center">LA Girl Nigeria</h3>
  <br>
- <a target="_blank" href="http://lagirlnigeria.com">
-<img src = "https://media.giphy.com/media/PhY1Xn1xEBIHFPl1yk/giphy.gif" alt = "lasite">
+ //<a target="_blank" href="http://lagirlnigeria.com"> <img src = "https://media.giphy.com/media/PhY1Xn1xEBIHFPl1yk/giphy.gif" alt = "lasite">
+  <iframe src="https://giphy.com/embed/PhY1Xn1xEBIHFPl1yk" width="480" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PhY1Xn1xEBIHFPl1yk">via GIPHY</a></p>
 <br>
 <p align="center">
-<a href="http://lagirlnigeria.com" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> </a>  
  <a href="http://lagirlnigeria.com" target="_blank">
 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
 </p>
@@ -34,12 +32,11 @@ See [my website](https://debellotteconsulting.com) for more information!
 <td width="50%" valign="top">
 <h3 align="center">"Motivational Cube"</h3>
 <br>
- <a target="_blank" href="https://github.com/folarindeb/motivationalcube.git">
-<img src = "https://media.giphy.com/media/F6lAQuZWE6vpjCsiOV/giphy.gif" alt = "cube">
+ //<a target="_blank" href="https://github.com/folarindeb/motivationalcube.git"><img src = "https://media.giphy.com/media/F6lAQuZWE6vpjCsiOV/giphy.gif" alt = "cube">
+ <iframe src="https://giphy.com/embed/F6lAQuZWE6vpjCsiOV" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/F6lAQuZWE6vpjCsiOV">via GIPHY</a></p>
  <br>
  <p align="center">
- <a href="https://www.debellotteconsulting.com/about-3" target="_blank">
- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+
  </a>
 <a href="https://www.debellotteconsulting.com/about-3" target="_blank">
  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
@@ -51,13 +48,10 @@ See [my website](https://debellotteconsulting.com) for more information!
 <td width="50%" valign="top">
 <h3 align="center">"Marketing Website"</h3>
 <br>
- <a target="_blank" href="https://media.giphy.com/media/mcdvcHfWFDXWsydN7O/giphy.gif">
-<img src = "https://media.giphy.com/media/mcdvcHfWFDXWsydN7O/giphy.gif" alt = "marketing">
+ //<a target="_blank" href="https://media.giphy.com/media/mcdvcHfWFDXWsydN7O/giphy.gif"><img src = "https://media.giphy.com/media/mcdvcHfWFDXWsydN7O/giphy.gif" alt = "marketing">
+ <iframe src="https://giphy.com/embed/PhY1Xn1xEBIHFPl1yk" width="480" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PhY1Xn1xEBIHFPl1yk">via GIPHY</a></p>
  <br>
  <p align="center">
- <a href="https://www.https://cwgmarketing.myshopify.com/" target="_blank">
- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
- </a>
 <a href="https://cwgmarketing.myshopify.com" target="_blank">
  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
 </p>
@@ -66,13 +60,10 @@ See [my website](https://debellotteconsulting.com) for more information!
 <td width="50%" valign="top">
 <h3 align="center">"Email Newletter"</h3>
 <br>
- <a target="_blank" href="https://media.giphy.com/media/RVTdRE552KVPqcp9VL/giphy.gif">
-<img src = "https://media.giphy.com/media/RVTdRE552KVPqcp9VL/giphy.gif" alt = "email">
+ //<a target="_blank" href="https://media.giphy.com/media/RVTdRE552KVPqcp9VL/giphy.gif"><img src = "https://media.giphy.com/media/RVTdRE552KVPqcp9VL/giphy.gif" alt = "email">
+ <iframe src="https://giphy.com/embed/RVTdRE552KVPqcp9VL" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RVTdRE552KVPqcp9VL">via GIPHY</a></p>
  <br>
  <p align="center">
- <a href="https://www.debellotteconsulting.com/copy-of-landing-pages" target="_blank">
- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
- </a>
 <a href=" https://www.debellotteconsulting.com/copy-of-landing-pages" target="_blank">
  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
 </p>
